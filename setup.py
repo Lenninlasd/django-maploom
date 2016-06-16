@@ -4,8 +4,8 @@ from setuptools import setup, find_packages
 here = os.path.abspath(os.path.dirname(__file__))
 
 setup(
-    name='django-maploom',
-    version='1.5.0',
+    name='django-maploom-registry',
+    version='1.2.0',
     author='Prominent Edge',
     author_email='geoshape.org@gmail.com',
     url='https://github.com/ROGUE-JCTD/django-maploom',
